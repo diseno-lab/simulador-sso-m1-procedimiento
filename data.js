@@ -1,6 +1,6 @@
 /* Guion: Storyboard_Simulacion_M1.docx · 14 slides. Textos de locución, UI, fichas, tarjetas, sellos y botones literales del guion. */
 window.SCENES=[
-{id:1,type:'intro',case:0,title:'Introducción al Simulador Módulo 1',hud:'Simulador Táctico: Módulo 1 - Operaciones de Apoyo y SSO',
+{id:1,type:'intro',case:0,title:'Introducción al Simulador Módulo 1',hud:'Simulador Táctico: Módulo 1 - Operaciones de Apoyo en Incendios Forestales',
  voice:'Bienvenido. En este módulo pondrás a prueba tu capacidad para operar equipos y vehículos de apoyo con un enfoque inquebrantable en la seguridad. Deberás aplicar las 5 Reglas Claves, el Protocolo OACEL y la correcta evaluación del entorno. Trabajar seguro, siempre. Presiona Iniciar.',
  cta:'INICIAR DESPLIEGUE TÁCTICO ›',to:2},
 {id:2,type:'context',case:1,title:'Regla 2: Ubícate Seguro',
