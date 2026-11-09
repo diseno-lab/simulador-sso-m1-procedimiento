@@ -52,4 +52,4 @@ window.SCENES=[
 ];
 window.MODULE={key:'simulador-sso-m1-pt',eyebrow:'MÓDULO 1 SSO',report:'Reporte de Competencias SSO - Módulo 1',
  welcomeTitle:'Simulador Táctico SSO · Módulo 1',
- welcome:'<p>Procedimiento de Trabajo y SSO · Módulo 1</p><p>Tres casos: distancias de seguridad de la Regla 2 «Ubícate Seguro», cárcavas y la Regla 3 «Ingresa Seguro», y bloqueo de energías de la Regla 4 «Interviene Seguro» con temporizador de 30 segundos. Cada caso permite dos intentos.</p>'};
+ welcome:'<p>Operaciones de Apoyo en Incendios Forestales · Módulo 1</p><p>Tres casos: distancias de seguridad de la Regla 2 «Ubícate Seguro», cárcavas y la Regla 3 «Ingresa Seguro», y bloqueo de energías de la Regla 4 «Interviene Seguro» con temporizador de 30 segundos. Cada caso permite dos intentos.</p>'};

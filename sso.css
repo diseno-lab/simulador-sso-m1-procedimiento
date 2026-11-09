@@ -161,7 +161,7 @@ body.urgent-fx main{animation:shakebig .35s infinite;box-shadow:inset 0 0 120px 
 .rotor-blade{transform-box:fill-box;transform-origin:center;animation:rotorx .25s linear infinite}@keyframes rotorx{50%{transform:scaleX(.15)}}
 .drop{animation:beacon 1.2s steps(2) infinite}
 .arm{transform-box:fill-box;transform-origin:0% 100%;animation:armx 2.6s ease-in-out infinite}@keyframes armx{50%{transform:rotate(-8deg)}}
-.radius-strip{margin-top:10px}.radius-strip svg{max-height:160px;width:100%}
+.radius-strip{margin-top:10px}.radius-strip svg{display:block;width:100%;height:auto;max-height:250px}.m1-ok .dnd.ok .bin{min-height:96px}
 .draw{stroke-dasharray:700;stroke-dashoffset:700;animation:drawx 1.6s ease-out forwards}@keyframes drawx{to{stroke-dashoffset:0}}
 .turn{transform-box:fill-box;transform-origin:center;animation:turnx 2.4s ease-out forwards}@keyframes turnx{to{transform:translate(-40px,-60px) rotate(-30deg)}}
 .shield{animation:shieldp 1.8s ease-in-out infinite}@keyframes shieldp{50%{opacity:.6}}
